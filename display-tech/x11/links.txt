@@ -1,0 +1,1 @@
+how x11 works : https://goteleport.com/blog/x11-forwarding/
